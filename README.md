@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">I started my technical journey as a backend developer with PHP. Throughout my career, I have worked with various <br>languages and tools, including Power BI, Microsoft SQL, Ionic, Java, and WordPress. <br> <br>For the last six years, I have focused on the Flutter framework. I chose Flutter because of its capability to deliver <br>native-like performance and provide a consistent UI across multiple platforms. I worked on several high-profile <br>projects, including e-commerce, fitness, farm and education. These experiences have allowed me to build <br>applications that cater to different user needs while maintaining high performance and usability. <br> <br>Experienced in Agile/Scrum methodologies and the design of scalable architectures, with a focus on continuous <br>integration and delivery (CI/CD).</p>
+<p align="left">Passionate about software development and mobile technology, with a focus on Flutter. I bring over 6 years of experience in mobile app development and more than 15 years in the IT field. Specializing in hybrid solutions, I build performant and scalable apps for Android, iOS, web, and desktop, with a user-centric approach. As a Full Stack Developer, I focus mainly on frontend, creating smooth and intuitive interfaces.</p>
+
+<p align="left">I also have 1 year of experience with React Native, working with fundamental concepts such as hooks (useState, useEffect, useContext), component-based architecture, and state management with Redux, Context API, and React Navigation for efficient routing and navigation flows.</p>
+
+<p align="left">I’m also adept at maintaining and optimizing existing apps, ensuring quality and continuity, even when inheriting projects from other developers. My expertise includes diverse state management approaches, such as BLoC, GetX, MobX, Provider, and Riverpod, and I'm always on the lookout for new solutions to boost project efficiency.</p>
+
+<p align="left">With strong skills in REST API integration, Firebase, and notification tools for Android and iOS, I also have experience with payment system configurations (e.g., pagar.me) and integrating complex backend systems.</p>
 
 ###
 
@@ -22,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
