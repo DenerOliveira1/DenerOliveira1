@@ -57,9 +57,9 @@ Some things I've done:
 | App | What it is | Highlights |
 |---|---|---|
 | [Galileu Saúde](https://apps.apple.com/br/app/galileu-sa%C3%BAde/id6502108065) | Production healthcare app | Crash rate down 40%, end-to-end feature ownership |
-| [Gurumê](https://apps.apple.com/br/app/gurum%C3%AA/id6443662278) | Premium restaurant app | ~89% faster load/render, menu & reservations via REST |
-| [CPG](https://apps.apple.com/br/app/cpg-click-petr%C3%B3leo-e-g%C3%A1s/id6446126437) | Oil & gas news app | Built from scratch with Clean Architecture, ~94% faster rendering |
+| [Gurumê](https://apps.apple.com/br/app/gurum%C3%AA/id6443662278) | Premium restaurant app | ~70% faster load/render, menu & reservations via REST |
+| [CPG](https://apps.apple.com/br/app/cpg-click-petr%C3%B3leo-e-g%C3%A1s/id6446126437) | Oil & gas news app | Built from scratch with Clean Architecture, ~55% faster rendering |
 | [Lamis](https://apps.apple.com/br/app/lamis/id1548817367) | Fashion e-commerce | Catalog, cart, checkout and store launch |
 | [Canal Educação](https://apps.apple.com/br/app/canal-educa%C3%A7%C3%A3o-aluno/id6476117452?l=en-GB) | Education app with offline mode | Long-term maintenance and release management |
 
-More case studies at [deneroliveira.com.br](https://www.deneroliveira.com.br).
+More projects (in Portuguese) at [deneroliveira.com.br](https://www.deneroliveira.com.br).
