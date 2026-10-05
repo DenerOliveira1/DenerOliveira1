@@ -13,7 +13,7 @@
 
 ## About me
 
-I'm a Senior Mobile Engineer with 8+ years building cross-platform apps in Flutter and React Native, and 15+ years in tech overall. Today I work on a production healthcare app, owning features end to end — from architecture to store release.
+I'm a Senior Mobile Engineer with 8+ years building iOS and Android apps, mainly with Flutter and React Native, and 15+ years in tech overall. Today I work on a production healthcare app, owning features end to end — from architecture to store release.
 
 Alongside mobile work, I build AI integrations: LLM APIs (Claude, OpenAI), n8n workflows and WhatsApp automation for small businesses. In practice, this means I can ship the app and also the intelligent systems around it.
 
